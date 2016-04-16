@@ -1,0 +1,33 @@
+*{margin:0;
+	padding:0;}
+body{width:1000px;
+	margin:0 auto;
+	padding:0
+	font:16px normal "Verdana",Arial,Times;}
+.page-header{width:1000px;
+	height:100px;
+	line-height:100px;
+	margin:0;
+	padding:0 auto;
+	background:#000066;
+	color:#fff;
+	}
+.left{width:200px;
+	float:left;
+	}
+.menu{	width:100px;
+	background:#ffccff;}
+.menu li{width:98px;
+	height:20px;
+	line-height:20px;
+	background:#ffff33;
+	border:1px solid #ffff33;
+	color:#000;}
+.left p{margin:10px 0 0 2px;
+	text-align:left;
+	line-height:20px;}
+.right{width:100px;
+	float:right;}
+.right img{margin:30px;}
+.main{width:700px;clear:both;text-align:center;}
+
