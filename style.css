@@ -26,8 +26,8 @@ body{width:1000px;
 .left p{margin:10px 0 0 2px;
 	text-align:left;
 	line-height:20px;}
+.main{width:700px;text-align:center;}
 .right{width:100px;
 	float:right;}
 .right img{margin:30px;}
-.main{width:700px;clear:both;text-align:center;}
 
