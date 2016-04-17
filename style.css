@@ -20,11 +20,13 @@ body{width:1000px;
 	height:600px;
 	float:left;
 	}
-.menu{	width:100px;
-	background:#ffccff;}
-.menu li{width:98px;
-	height:20px;
-	line-height:20px;
+.menu{	width:200px;
+	background:#ffccff;
+	margin:15px;
+}
+.menu li{width:198px;
+	height:30px;
+
 	margin:2px 0;
 	background:#ffff33;
 	border:1px solid #ffff33;
@@ -35,6 +37,8 @@ body{width:1000px;
 .main{width:700px;height:600px;text-align:center;}
 .right{width:100px;
 	height:600px;
-	float:right;}
+	float:right;
+	clear:both;
+}
 .right img{margin:30px;}
 
