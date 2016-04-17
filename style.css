@@ -8,11 +8,16 @@ body{width:1000px;
 	height:100px;
 	line-height:100px;
 	margin:0;
-	padding:0 auto;
-	background:#000066;
+	text-align:center;
+	background:black;
 	color:#fff;
 	}
+.content{width:1000px;
+	height:600px;
+	overflow:hidden;
+}
 .left{width:200px;
+	height:600px;
 	float:left;
 	}
 .menu{	width:100px;
@@ -20,14 +25,16 @@ body{width:1000px;
 .menu li{width:98px;
 	height:20px;
 	line-height:20px;
+	margin:2px 0;
 	background:#ffff33;
 	border:1px solid #ffff33;
 	color:#000;}
 .left p{margin:10px 0 0 2px;
 	text-align:left;
 	line-height:20px;}
-.main{width:700px;text-align:center;}
+.main{width:700px;height:600px;text-align:center;}
 .right{width:100px;
+	height:600px;
 	float:right;}
 .right img{margin:30px;}
 
