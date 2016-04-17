@@ -3,24 +3,25 @@
 body{width:1000px;
 	margin:0 auto;
 	padding:0
-	font:16px normal "Verdana",Arial,Times;}
+	font:0.8em normal "Verdana",Arial,Times;}
 .page-header{width:1000px;
 	height:100px;
 	line-height:100px;
-	margin:0;
-	text-align:center;
 	background:black;
 	color:#fff;
 	}
+h1{font-size:2em;}
 .content{width:1000px;
 	height:600px;
+	font-size:0.5em;
 }
 .left{width:200px;
+	height:600px;
 	float:left;
 	}
 .menu{	width:200px;
 	background:#ffccff;
-	margin:15px;
+	margin:15px 0;
 }
 .menu li{width:198px;
 	height:30px;
@@ -35,6 +36,7 @@ body{width:1000px;
 	line-height:20px;}
 .main{text-align:left;}
 .right{width:100px;
+height:600px;
 	float:right;
 }
 .right img{margin:30px;}
