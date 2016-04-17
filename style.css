@@ -11,18 +11,17 @@
 .content{width:1000px;
 	height:800px;
 	font-size:0.5em;
-	margin:0 auto;
+	margin:20px auto;
 }
 .left{width:200px;
 	height:800px;
-	margin:20px 0 0 100px;
 	float:left;
 	}
 }
 .menu{width:200px;
 	list-style:none;
 }
-li{width:190px;
+li{width:198px;
 	height:30px;
 	line-height:30px;
 	list-style:none;
@@ -35,20 +34,19 @@ li{width:190px;
 	color:#000;
 	
 }
-.left p{margin:10px 0 0 2px;
+.left p{margin:10px 0 0 1px;
 	text-align:left;
 	line-height:20px;}
 .main{height:800px;
-	margin:0 10px;
+	margin:0 30px;
 }
-.main p{margin:20px;
+.main p{margin-bottom:20px;
 	line-height:20px;
 	text-align:left;
 	font-size:1.2em;
 }
 .right{width:100px;
 	height:800px;
-	margin:20px 100px 0 0;
 	float:right;
 }
 footer{clear:both;
