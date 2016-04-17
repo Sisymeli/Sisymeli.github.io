@@ -19,10 +19,10 @@
 	float:left;
 	}
 }
+.menu{list-style:none;}
 .menu li{width:198px;
 	height:30px;
 	line-height:30px;
-	list-style:none;
 	margin:2px 0;
 	padding-left:10px;
 	background:;#ff6347;
