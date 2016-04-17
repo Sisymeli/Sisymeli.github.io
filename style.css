@@ -31,6 +31,7 @@ body{width:1000px;
 	background:#ffff33;
 	border:1px solid #ffff33;
 	color:#000;}
+.menu a{text-decoration:none;}
 .left p{margin:10px 0 0 2px;
 	text-align:left;
 	line-height:20px;}
@@ -38,7 +39,6 @@ body{width:1000px;
 .right{width:100px;
 	height:600px;
 	float:right;
-	clear:both;
 }
 .right img{margin:30px;}
 
