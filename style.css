@@ -19,13 +19,13 @@
 	float:left;
 	}
 }
-.menu{list-style:none;}
-.menu li{width:198px;
+ul{list-style:none;}
+li{width:198px;
 	height:30px;
 	line-height:30px;
 	margin:2px 0;
 	padding-left:10px;
-	background:;#ff6347;
+	background:#ff6347;
 	border:1px solid #ffff33;
 	}
 .menu a{text-decoration:none;
