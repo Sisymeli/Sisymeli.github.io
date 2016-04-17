@@ -19,14 +19,17 @@
 	float:left;
 	}
 }
+.menu{width:200px;
+	list-style:none;
+}
 li{width:198px;
 	height:30px;
 	line-height:30px;
-	float:left;
+	list-style:none;
 	margin:2px 0;
 	padding-left:10px;
 	background:#ff6347;
-	border:1px solid #ffff33;
+	border:1px solid #d3d3d3;
 	}
 .menu a{text-decoration:none;
 	color:#000;
