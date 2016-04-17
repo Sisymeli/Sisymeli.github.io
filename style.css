@@ -11,6 +11,7 @@
 .content{width:1000px;
 	height:600px;
 	font-size:0.5em;
+	margin:0 auto;
 }
 .left{width:200px;
 	margin:20px 0 0 100px;
@@ -27,11 +28,15 @@
 	border:1px solid #ffff33;
 	}
 .menu a{text-decoration:none;
-	color:#fff;}
-.menu a:hover{color:black;}
+	color:#000;
+	
+}
 .left p{margin:10px 0 0 2px;
 	text-align:left;
 	line-height:20px;}
+.main{height:600px;
+	margin:0 10px;
+}
 .main p{margin:20px;
 	line-height:20px;
 	text-align:left;
