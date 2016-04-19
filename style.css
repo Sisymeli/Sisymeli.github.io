@@ -8,29 +8,9 @@
 	color:#fff;
 	font-family:"Verdana",Arial,Times;
 	}
-.paragraphs{
-	margin:20px 0 0 50px;
-	list-style:none;
-}
-.paragraphs li{display:inline;
-	margin-right:20px;
-	list-style:none;
-}
-.paragraphs a{text-decoration:none;}
-#tape{position:absolute;
-	width:158px;
-	height:45px;
-	top:10px;
-	right:50px;
-	line-height:30px;
-	padding-left:2px;
-	border:1px thin #000;
-	}
-#search{outline:none;}
-#login{float:right;
-	width:200px;
-	margin:10px 50px 0 0;
-}
+#banner{margin-top:80px;}
+
+
 
 
 .content{width:1000px;
