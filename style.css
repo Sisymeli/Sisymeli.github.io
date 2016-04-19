@@ -8,7 +8,12 @@
 	color:#fff;
 	font-family:"Verdana",Arial,Times;
 	}
-.paragraphs{float:left;}
+.paragraphs{float:left;
+	
+}
+.paragraphs li{display:inline;}
+#login{float:right;
+}
 #banner{margin-top:80px;}
 
 
