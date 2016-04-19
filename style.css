@@ -14,7 +14,8 @@
 .paragraphs li{display:inline;}
 #login{float:right;
 }
-#banner{margin-top:80px;}
+#banner{position:relative;
+	top:80px;}
 
 
 
