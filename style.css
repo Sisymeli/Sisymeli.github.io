@@ -15,8 +15,10 @@
 #login{float:right;
 }
 #banner{position:relative;
-	top:80px;
-	margin-bottom:100px;
+	top:90px;
+	width:1000px;
+	
+	margin:0 auto 100px auto;
 }
 
 
