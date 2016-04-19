@@ -22,7 +22,7 @@ margin-right:200px;
 #banner{position:relative;
 	top:90px;
 	width:1000px;
-	background:"/img.img/1.png";
+	background:rgba(160,82,45,0.5);
 	margin:0 auto 100px auto;
 	z-index:10;
 }
